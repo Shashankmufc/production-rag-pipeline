@@ -147,6 +147,22 @@ Then open:
 http://127.0.0.1:5000
 ```
 
+## API screenshots
+
+Add images to the repository under `docs/images/` and reference them here for a polished GitHub presentation.
+
+### Swagger UI
+
+![FastAPI Swagger UI](docs/images/swagger-ui.png)
+
+### Token endpoint
+
+![FastAPI token endpoint](docs/images/token-endpoint.png)
+
+### MLflow dashboard
+
+![MLflow dashboard](docs/images/mlflow-dashboard.png)
+
 ## Project phases
 
 - [x] Phase 1: Basic RAG app and modular architecture
